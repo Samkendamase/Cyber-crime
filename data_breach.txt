@@ -1,0 +1,9 @@
+If your email an password are available to the public, people can make online purchases 
+A person can even sign you out of your own email 
+They can pretend to be you and send out emails to your work place or pretend to be you on your other online platforms
+
+To protect yourself against data breach one should you a passord that is not too obvious, use a strong password and sign up for a two factor authentication
+Avoid casually filling in your details on any link that you may see online or on your emails (Garfinkel et al 2005)
+
+Reference 
+Garfinkel, S.L., Margrave, D., Schiller,J.I., Nordlander, E. and Miller, R.C., 2005, April. How to make secure email easier to use. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 701-710).
